@@ -1,5 +1,5 @@
 <?php
 
-include_once("Sidewalk_Mario.html");
+include_once("index.html");
 
 ?>
